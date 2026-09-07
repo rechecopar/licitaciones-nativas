@@ -1,0 +1,11 @@
+# Secretos locales
+motor/config_local.py
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+motor/data/actualizaciones.log
